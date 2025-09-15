@@ -1,5 +1,15 @@
 body{
-    background-color: rgba(20, 208, 255, 0.768);
-    color: rgb(154, 7, 37);
+    background-color: rgba(6, 151, 139, 0.768);
+    color: rgb(7, 110, 154);
     font-family: "Oswald", sans-serif;
+}
+header{
+    font-size: 50px;
+    border:dashed 5px rgb(189, 106, 164);
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
 }
