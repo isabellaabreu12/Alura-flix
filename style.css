@@ -1,14 +1,15 @@
 body{
-    background-color: rgba(12, 242, 169, 0.768);
-    color: rgb(6, 160, 39);
+    background-color: rgba(20, 136, 230, 0.897);
+    color: rgb(74, 184, 199);
     font-family: "Oswald", sans-serif;
     margin: 0px;
 }
 header{
     font-size: 50px;
-    border:dashed 5px rgb(5, 87, 5);
+    border:dashed 5px rgb(39, 5, 87);
     text-align: center;
    /* margin: 30px;*/
+   color: rgb(0, 85, 255);
    padding: 5px;
 }
 h1{
@@ -16,4 +17,11 @@ h1{
 }
 p{
     font-size: 20px;
+}
+
+section{
+background-color:rgb(33, 61, 117) ;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
 }
