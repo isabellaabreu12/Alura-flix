@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(20, 136, 230, 0.897);
+    background-color: rgba(67, 134, 189, 0.897);
     color: rgb(74, 184, 199);
     font-family: "Oswald", sans-serif;
     margin: 0px;
@@ -9,7 +9,7 @@ header{
     border:dashed 5px rgb(39, 5, 87);
     text-align: center;
    /* margin: 30px;*/
-   color: rgb(0, 85, 255);
+   color: rgb(24, 72, 168);
    padding: 5px;
 }
 h1{
@@ -24,4 +24,9 @@ background-color:rgb(33, 61, 117) ;
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
+
 }
+.chamada-texto{
+    margin-right: 10%;
+}
+
